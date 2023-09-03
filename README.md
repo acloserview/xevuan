@@ -11,4 +11,3 @@ A barebones XFCE desktop based on Devuan Stable. It replaces the default panel a
 
 **Installation**
 - Use Refracta Installer
-- Uefi is default, for bios install grub-pc
