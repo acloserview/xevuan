@@ -11,3 +11,6 @@ A barebones XFCE desktop based on Devuan Stable. It replaces the default panel a
 
 **Installation**
 - Use Refracta Installer
+
+**Login**
+- root/root - anon/live
