@@ -14,3 +14,6 @@ A barebones XFCE desktop based on Devuan Stable. It replaces the default panel a
 
 **Login**
 - root/root - anon/live
+
+**Known Issues**
+- Installdeb & Installrpm helpers don't work: sudo chmod +x /usr/share/xevuan/actions/*
