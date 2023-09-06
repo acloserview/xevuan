@@ -5,7 +5,6 @@ A barebones XFCE desktop based on Devuan Stable. It replaces the default panel a
 - Barebones XFCE desktop
 - Tint & jgmenu replace the default panel and menu
 - No software, archiver, image viewer, video player, etc
-- Connman replaces NetworkManager
 - Optimised base
 - Uses default repos
 
